@@ -1,6 +1,7 @@
 <img src="avatar2.jpg" width="200" height="200" />
 
-### I am Shushan, an always inspired and experienced Backend developer with a track record of using PHP and its frameworks to help businesses build and manage stronger code bases.
+### I am Shushan, experienced and self-motivated Backend developer.
+### PHP is my passion as it is a widely-used programming language, particularly for web development, and it has a rich ecosystem of frameworks that can make development tasks more efficient and maintainable.
 
 ---
 ### :man_technologist: About me:
